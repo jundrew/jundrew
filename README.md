@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+<img src="https://github.com/junseok0408/junseok0408/assets/71753257/7caccca7-e2f6-4a89-9ef4-0e3eb956d91a">
+</p>
 
 <!--
 **jundrew/jundrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
